@@ -1,2 +1,3 @@
-The compressed forlder included files units which help me to make easier the programming of avr in pascal language. Now i could use for the MCU which i have in my boxes or used in small PCB's easy. The software is free to use and must be consider as untested. 
-All other files i made manually. 
+The compressed forlder include files units which help the programmers make easier their job when use pascal language for AVR MCU.  For the MCU which i had in my boxes i made some libraries. Those are the uncompressed files. The zip folder contains all microcontroller libraries which are made with a program which i found in Github (https://github.com/ccrause   https://github.com/ccrause/importATDF)
+The software is free to use and must be consider as untested. 
+ 
